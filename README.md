@@ -202,4 +202,4 @@ However, this package includes `package/glotter.wasm`, which embeds model data f
 - MIT License for the Typst package and plugin code.
 - Creative Commons Attribution-ShareAlike 3.0 Unported for the embedded fastText model data.
 
-The package code is MIT licensed. The embedded fastText model data in `package/glotter.wasm` is licensed under CC-BY-SA-3.0. See [`NOTICE.md`](NOTICE.md) for attribution, checksums, modification status, and redistribution notes.
+The package code is MIT licensed. The embedded fastText model data in `glotter.wasm` is licensed under CC-BY-SA-3.0. See [`NOTICE.md`](NOTICE.md) for attribution, checksums, modification status, and redistribution notes. License texts are provided in [`LICENSE-MIT`](LICENSE-MIT) and [`LICENSE-CC-BY-SA-3.0`](LICENSE-CC-BY-SA-3.0).
