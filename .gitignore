@@ -1,0 +1,5 @@
+target/
+wasm-plugin/target/
+wasm-plugin/model/
+
+push.sh
